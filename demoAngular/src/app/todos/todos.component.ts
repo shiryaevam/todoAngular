@@ -8,7 +8,7 @@ import { delay } from 'rxjs/operators';
   styleUrls: ['./todos.component.scss'],
 })
 export class TodosComponent implements OnInit {
-  private loading: boolean = true;
+  public loading: boolean = true;
 
   constructor(public todosService: TodosService) {}
 
