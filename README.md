@@ -1,3 +1,6 @@
 # todoAngular
 
-#посмотреть рабочий вариант можно здес https://gifted-brown-afdd21.netlify.app/ь
+
+
+## посмотреть рабочий вариант можно здесь https://gifted-brown-afdd21.netlify.app/
+
