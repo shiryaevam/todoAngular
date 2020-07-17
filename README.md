@@ -2,5 +2,4 @@
 
 
 
-## посмотреть рабочий вариант можно здесь https://gifted-brown-afdd21.netlify.app/
-
+## посмотреть рабочий вариант можно здесь https://angulartodoshiryaevam.netlify.app/
